@@ -1,4 +1,4 @@
-1.mkdir git-learn
+1.mkdir git-learn (edited)
 2.cd git-learn
 3.git init
 4.git config user.name "USERNAME"
